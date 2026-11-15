@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000/api/tasks';
+const API_URL = 'http://todo-backend-idzd.onrender.com/api/tasks';
 
 // ১. পেজ ওপেন হওয়ার সাথে সাথে ব্যাকএন্ড থেকে টাস্কগুলো নিয়ে আসা
 window.onload = async function() {
